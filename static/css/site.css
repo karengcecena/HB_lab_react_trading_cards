@@ -19,5 +19,9 @@ body {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 img {
+  height: 20em;
+}
+
+.card img {
   height: 7em;
 }
